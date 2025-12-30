@@ -102,5 +102,4 @@ KinloveProjectは、「創作活動」を通じて社会にある様々な壁を
 
 KinloveProjectを中心とした関連組織・プロジェクト群を  
 **KinloveGroup** と総称しています。
-👉 組織の詳細一覧はこちら  
-- 組織概要（HTML）：docs/organizations.html
+<a href="organizations.html">関連組織（KinloveGroup）</a>
