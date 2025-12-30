@@ -14,5 +14,5 @@ KinloveProject は、Webサービス開発を中心としたプロジェクト�
 
 ## リンク
 - GitHub: https://github.com/ARCHI5474/KinloveProject
-- 公式サイト: （あとで追加）
-- note: （あとで追加）
+- 公式サイト: 
+- note: 
