@@ -97,3 +97,10 @@ KinloveProjectは、「創作活動」を通じて社会にある様々な壁を
 - 公式サイト：https://kinlove.my.canva.site/
 - Note：https://note.com/kinlove_project
 - 公式ブログ：https://kinloveproject.blogspot.com/
+
+## 🏢 関連組織（KinloveGroup）
+
+KinloveProjectを中心とした関連組織・プロジェクト群を  
+**KinloveGroup** と総称しています。
+👉 組織の詳細一覧はこちら  
+- 組織概要（HTML）：docs/organizations.html
